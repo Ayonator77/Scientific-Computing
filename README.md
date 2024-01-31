@@ -12,7 +12,7 @@ Eigenvalue and Tridiagonal Matrices
 
 Power Method for Eigenvalues
 
-Supported Tasks
+Supported Tasks: 
 Solving non-linear equations via root finding algorithms.
 Approximating solutions to differential equations using eigen-decompositions and eigenvalue problems.
 Understanding the numerical properties and convergence behavior of various algorithms.
