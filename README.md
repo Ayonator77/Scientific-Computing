@@ -11,6 +11,7 @@ Newton-Raphson Method
 Eigenvalue and Tridiagonal Matrices
 
 Power Method for Eigenvalues
+
 Supported Tasks
 Solving non-linear equations via root finding algorithms.
 Approximating solutions to differential equations using eigen-decompositions and eigenvalue problems.
